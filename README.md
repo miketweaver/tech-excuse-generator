@@ -13,6 +13,6 @@ cd tech-excuse-generator/
 ```
 
 ## License
-[LICENSE](tech-excuse-generator/LICENSE). The project is licensed under MIT, but that only applies to the code.
+[LICENSE](LICENSE). The project is licensed under MIT, but that only applies to the code.
 
 The Array of available words is Jaco Strauss' and he borrowed his from [Simon Travaglia's Bastard D.I.Y. Excuse Table](http://web.archive.org/web/20090503113411/http://bofh.ntk.net/ExcuseBoard.html)
